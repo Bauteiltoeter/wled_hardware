@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=esp32.SchDoc
+Record=SheetSymbol|SourceDocument=esp32.SchDoc|Designator=U_cyberlamp|SchDesignator=U_cyberlamp|FileName=cyberlamp.SchDoc|SymbolType=Normal|RawFileName=cyberlamp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=esp32.SchDoc|Designator=U_fan|SchDesignator=U_fan|FileName=fan.SchDoc|SymbolType=Normal|RawFileName=fan.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=esp32.SchDoc|Designator=U_leddriver|SchDesignator=U_leddriver|FileName=leddriver.SchDoc|SymbolType=Normal|RawFileName=leddriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=esp32.SchDoc|Designator=U_powersupply|SchDesignator=U_powersupply|FileName=powersupply.SchDoc|SymbolType=Normal|RawFileName=powersupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

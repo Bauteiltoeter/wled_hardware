@@ -1,0 +1,12 @@
+*.OutJob.Zip
+*.PrjPcb.Zip
+*.PcbDoc.Zip
+*.SchDoc.Zip
+hardware/cyberlamp/History/*
+hardware/cyberlamp/__Previews/*
+hardware/cyberlamp/Project Outputs for cyberlamp/*
+hardware/cyberlamp_v2/History/*
+hardware/cyberlamp_v2/__Previews/*
+hardware/cyberlamp_v2/Project Outputs for cyberlamp/*
+*.LOG
+*.log
