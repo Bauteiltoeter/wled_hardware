@@ -28,7 +28,8 @@ PCB manufacturing data (gerber), schematic and (mostly) mouser BOM are available
 ## Cost
 BOM costs are around 45€ + Board + Stencil
 
+## License
+This hardware is licensed under CERN open hardware license [CERN-OHL-W](license.txt)
+
 ## Software
 Compatible with my fork of WLED, available [here](https://github.com/Bauteiltoeter/WLED2/tree/cyberlamp).
-
-
